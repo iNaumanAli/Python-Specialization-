@@ -3,4 +3,4 @@ In this assignment you will read through and parse a file with text and numbers.
 compute the sum of the numbers.
 The basic outline of this problem is to read the file, look for integers using the re.findall(), looking for a regular expression of 
 '[0-9]+' and then converting the extracted strings to integers and summing up the integers.
-Solution is in the code Folder.
+Solution is in the Jupyter Notebook, Named Regex-Solution.
